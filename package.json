@@ -1,0 +1,9 @@
+{
+  "name": "full-screen-api",
+  "version": "1.0.0",
+  "description": "Clientside script to detect/control full screen in browser.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "yar3333",
+  "license": "ISC"
+}
